@@ -17,7 +17,7 @@ This repository contains three Jupyter Notebooks that demonstrate various stages
 
 3. **Adding Price-Based Indicators:**
    - This notebook focuses on enriching the dataset by adding price-based indicators commonly used in financial analysis.
-   - Users will learn how to calculate and add indicators such as moving averages, relative strength index (RSI), Bollinger Bands, and MACD (Moving Average Convergence Divergence).
+   - Users will learn how to calculate and add indicators such as moving averages, relative strength index (RSI), Bollinger Bands, and MACD (Moving Average Convergence Divergence), Stochastic Oscillator.
    - The notebook provides code examples and explanations for calculating each indicator and visualizing them using plots.
 
 ## Usage
